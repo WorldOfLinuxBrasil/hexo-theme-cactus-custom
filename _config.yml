@@ -25,10 +25,8 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
+  github: https://github.com/WorldOfLinuxBrasil
   twitter: /
-  facebook: /
-  linkedin: /
   mail: mailto:name@email.com
 
 # Customize the overview with displaying a tagcloud on the index page.
